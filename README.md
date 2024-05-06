@@ -27,5 +27,3 @@ Imagine a world where the only thing you can shoot is a harsh look. **NoGunsMuta
 
 - **AirstrikeMutator**: Keep an eye on the timer and heed the warnings. There’s no safe place during an airstrike, but awareness might just keep you alive a bit longer.
 - **NoGunsMutator**: Without weapons, your best bet is to master the art of dodging and using the map’s hazards to your advantage. It’s a great time to perfect your tactical retreats and surprise cornering!
-
-Enjoy the added thrill and challenge these mutators bring to your Unreal Tournament sessions. Whether avoiding rockets or engaging in high-stakes hide-and-seek, remember: it’s all about staying one step ahead of the game!
